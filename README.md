@@ -1,5 +1,5 @@
 # repositorio-teste
-####criando primeiro repositorio sem aula
+##Criando o primeiro repositorio sem aula
 
-###criando apenas para testar as habilidades com git 🌆
+###Criando apenas para testar as habilidades com git 🌆
 
